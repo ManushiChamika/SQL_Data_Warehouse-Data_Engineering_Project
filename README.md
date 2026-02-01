@@ -106,5 +106,5 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🤗 Materials are solely of :
-Baraa Khatib Salkini
+## 🤗 Materials are solely by:
+Baraa Khatib Salkini - (link to youtube)[https://www.youtube.com/watch?v=9GVqKuTVANE&t=87s]
